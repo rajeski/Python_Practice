@@ -1,2 +1,2 @@
 # Python Practice
-## Running Python practice-files
+## Running doodles, i.e., practice-coding exercises / files
